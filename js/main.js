@@ -68,7 +68,6 @@ const render = () => {
   document.getElementById("movies-board").innerHTML = moviesHTML;
 };
 
-// 에러 구문...  왜안될까..
 // const errRender = () => {
 //   let errorHTML = `<div>${검색결과없음}</div>`;
 //   document.getElementById("movies-board").innerHTML = errorHTML;
