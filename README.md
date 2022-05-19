@@ -2,9 +2,7 @@
 
 [영화 검색 배포 사이트](https://amazing-sunflower-bb87c0.netlify.app)
 
-<img width="1258" alt="스크린샷 2022-05-19 오후 3 49 42" src="https://user-images.githubusercontent.com/102017296/169228498-d65db5ee-2ea4-4caa-b4e4-c83c6000728a.png">
-
-![스크린샷 2022-05-19 오후 4 00 31](https://user-images.githubusercontent.com/102017296/169230366-f0418750-1b99-4535-9f96-bbf15e30a48b.png)
+<img width="1258" alt="스크린샷 2022-05-19 오후 3 49 42" src="https://user-images.githubusercontent.com/102017296/169228498-d65db5ee-2ea4-4caa-b4e4-c83c6000728a.png">![스크린샷 2022-05-19 오후 4 00 31](https://user-images.githubusercontent.com/102017296/169230366-f0418750-1b99-4535-9f96-bbf15e30a48b.png)
 
 ### 주요기능
 
@@ -20,7 +18,7 @@
 
 #### 사용 기술 스택
 
-- WebPack 패키지
+- WebPack-bundler 패키지
 - HTML
 - SCSS
 - Vanilla JavaScript
